@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Primeburgersthlm::VERSION
   spec.authors       = ["Jonathan."]
   spec.email         = ["jonathan.borg.frodin@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "Get the daily burger from primeburgers facebook"
+  spec.summary       = "Get the daily burger from primeburgers facebook"
   spec.homepage      = ""
   spec.license       = "MIT"
 
