@@ -1,6 +1,6 @@
 # Primeburgersthlm
 
-TODO: Write a gem description
+DEAD - primeburger no longer posts burger of the day to their facebook feed
 
 ## Installation
 
